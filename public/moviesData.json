@@ -1,0 +1,59 @@
+[
+
+{"id":1, "page":1, "name":"فيلم 1", "date":"12/1/2012", "type":"انيميشن اجنبي", "assessment":"8.5","img":"images/img1.jpg"},
+{"id":2, "page":1, "name":"فيلم 2", "date":"1/1/2015", "type":"اكشن", "assessment":"9.5","img":"images/img2.jpg"},
+{"id":3, "page":1, "name":"فيلم 3", "date":"2/3/2022", "type":"رعب", "assessment":"10","img":"images/img3.jpg"},
+{"id":4, "page":1, "name":"فيلم 4", "date":"2/10/2016", "type":"رومنسي", "assessment":"5.5","img":"images/img4.jpg"},
+{"id":5, "page":1, "name":"فيلم 5", "date":"12/4/2013", "type":"رعب", "assessment":"8.9","img":"images/img5.jpg"},
+{"id":6, "page":1, "name":"فيلم 6", "date":"15/5/2011", "type":"دراما", "assessment":"7.8","img":"images/img6.jpg"},
+{"id":7, "page":1, "name":"فيلم 7", "date":"9/12/2014", "type":"اكشن", "assessment":"9.5","img":"images/img7.jpg"},
+{"id":8, "page":1, "name":"فيلم 8", "date":"9/12/2014", "type":"رعب", "assessment":"9.5","img":"images/img8.jpg"},
+{"id":9, "page":1, "name":"فيلم 9", "date":"9/12/2014", "type":"انيميشن", "assessment":"9.5","img":"images/img9.jpg"},
+{"id":10, "page":1, "name":"فيلم 1", "date":"12/1/2012", "type":"انيميشن اجنبي", "assessment":"8.5","img":"images/img10.jpg"},
+{"id":11, "page":1, "name":"فيلم 2", "date":"1/1/2015", "type":"اكشن", "assessment":"9.5","img":"images/img11.jpg"},
+{"id":12, "page":1, "name":"فيلم 3", "date":"2/3/2022", "type":"رعب", "assessment":"10","img":"images/img12.jpg"},
+{"id":13, "page":1, "name":"فيلم 4", "date":"2/10/2016", "type":"رومنسي", "assessment":"5.5","img":"images/img13.jpg"},
+{"id":14, "page":1, "name":"فيلم 5", "date":"12/4/2013", "type":"رعب", "assessment":"8.9","img":"images/img14.jpg"},
+{"id":15, "page":1, "name":"فيلم 6", "date":"15/5/2011", "type":"دراما", "assessment":"7.8","img":"images/img15.jpg"},
+{"id":16, "page":1, "name":"فيلم 7", "date":"9/12/2014", "type":"اكشن", "assessment":"9.5","img":"images/img16.jpg"},
+
+{"id":17, "page":2,  "name":"فيلم 8", "date":"9/12/2014", "type":"رعب", "assessment":"9.5","img":"images/img17.jpg"},
+{"id":18, "page":2, "name":"فيلم 9", "date":"9/12/2014", "type":"انيميشن", "assessment":"9.5","img":"images/img18.jpg"},
+{"id":19, "page":2, "name":"فيلم 1", "date":"12/1/2012", "type":"انيميشن اجنبي", "assessment":"8.5","img":"images/img19.jpg"},
+{"id":20, "page":2, "name":"فيلم 2", "date":"1/1/2015", "type":"اكشن", "assessment":"9.5","img":"images/img20.jpg"},
+{"id":21, "page":2, "name":"فيلم 3", "date":"2/3/2022", "type":"رعب", "assessment":"10","img":"images/img21.jpg"},
+{"id":22, "page":2, "name":"فيلم 4", "date":"2/10/2016", "type":"رومنسي", "assessment":"5.5","img":"images/img22.jpg"},
+{"id":23, "page":2, "name":"فيلم 5", "date":"12/4/2013", "type":"رعب", "assessment":"8.9","img":"images/img23.jpg"},
+{"id":24, "page":2, "name":"فيلم 6", "date":"15/5/2011", "type":"دراما", "assessment":"7.8","img":"images/img24.jpg"},
+{"id":25, "page":2, "name":"فيلم 7", "date":"9/12/2014", "type":"اكشن", "assessment":"9.5","img":"images/img25.jpg"},
+{"id":26, "page":2, "name":"فيلم 8", "date":"9/12/2014", "type":"رعب", "assessment":"9.5","img":"images/img26.jpg"},
+{"id":27, "page":2, "name":"فيلم 9", "date":"9/12/2014", "type":"انيميشن", "assessment":"9.5","img":"images/img27.jpg"},
+{"id":28, "page":2, "name":"فيلم 1", "date":"12/1/2012", "type":"انيميشن اجنبي", "assessment":"8.5","img":"images/img28.jpg"},
+{"id":29, "page":2, "name":"فيلم 2", "date":"1/1/2015", "type":"اكشن", "assessment":"9.5","img":"images/img29.jpg"},
+{"id":30, "page":2, "name":"فيلم 3", "date":"2/3/2022", "type":"رعب", "assessment":"10","img":"images/img30.jpg"},
+{"id":31, "page":2, "name":"فيلم 4", "date":"2/10/2016", "type":"رومنسي", "assessment":"5.5","img":"images/img31.jpg"},
+{"id":32, "page":2, "name":"فيلم 5", "date":"12/4/2013", "type":"رعب", "assessment":"8.9","img":"images/img32.jpg"},
+
+
+{"id":33, "page":3, "name":"فيلم 6", "date":"15/5/2011", "type":"دراما", "assessment":"7.8","img":"images/img33.jpg"},
+{"id":34, "page":3, "name":"فيلم 7", "date":"9/12/2014", "type":"اكشن", "assessment":"9.5","img":"images/img34.jpg"},
+{"id":35, "page":3, "name":"فيلم 8", "date":"9/12/2014", "type":"رعب", "assessment":"9.5","img":"images/img35.jpg"},
+{"id":36, "page":3, "name":"فيلم 9", "date":"9/12/2014", "type":"انيميشن", "assessment":"9.5","img":"images/img36.jpg"},
+{"id":37, "page":3, "name":"فيلم 1", "date":"12/1/2012", "type":"انيميشن اجنبي", "assessment":"8.5","img":"images/img37.jpg"},
+{"id":38, "page":3, "name":"فيلم 2", "date":"1/1/2015", "type":"اكشن", "assessment":"9.5","img":"images/img38.jpg"},
+{"id":39, "page":3, "name":"فيلم 3", "date":"2/3/2022", "type":"رعب", "assessment":"10","img":"images/img39.jpg"},
+{"id":40, "page":3, "name":"فيلم 4", "date":"2/10/2016", "type":"رومنسي", "assessment":"5.5","img":"images/img40.jpg"},
+{"id":41, "page":3, "name":"فيلم 5", "date":"12/4/2013", "type":"رعب", "assessment":"8.9","img":"images/img41.jpg"},
+{"id":42, "page":3, "name":"فيلم 6", "date":"15/5/2011", "type":"دراما", "assessment":"7.8","img":"images/img42.jpg"},
+{"id":43, "page":3, "name":"فيلم 7", "date":"9/12/2014", "type":"اكشن", "assessment":"9.5","img":"images/img43.jpg"},
+{"id":44, "page":3, "name":"فيلم 8", "date":"9/12/2014", "type":"رعب", "assessment":"9.5","img":"images/img44.jpg"},
+{"id":45, "page":3, "name":"فيلم 9", "date":"9/12/2014", "type":"انيميشن", "assessment":"9.5","img":"images/img45.jpg"},
+{"id":46, "page":3, "name":"فيلم 6", "date":"15/5/2011", "type":"دراما", "assessment":"7.8","img":"images/img46.jpg"},
+{"id":47, "page":3, "name":"فيلم 7", "date":"9/12/2014", "type":"اكشن", "assessment":"9.5","img":"images/img47.jpg"},
+{"id":48, "page":3, "name":"فيلم 8", "date":"9/12/2014", "type":"رعب", "assessment":"9.5","img":"images/img48.jpg"},
+{"id":49, "page":4, "name":"فيلم 8", "date":"9/12/2014", "type":"رعب", "assessment":"9.5","img":"images/img48.jpg"}
+
+
+
+
+]

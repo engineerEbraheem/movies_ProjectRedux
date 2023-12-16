@@ -1,13 +1,135 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+:root {
+  --main-color: #b45b35;
+  --section-background: #f3f3f3;
+  ---main-text-color: #224f61;
+  --sub-color-text:#8c8c8c;
+  --hover-btn-color: #964829;
+  --overlay-background:#393839;
+  --Details-text-color: #555555;
+
+   
+  }
+  
+  
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+  body{
+    font-family: "Cairo";
+  }
+  
+  @font-face{
+  
+    src: url("Cairo-Medium.ttf");
+    font-family: "Cairo";
+  }
+
+  /* start Nav Bar Style */
+
+.navBarStyle{
+  background-color: var(--main-color);
+  height: 90px;
 }
+
+
+.logoImg{
+width: 100%;
+height: 70px;
+}
+
+
+
+.searchInput{
+ border-radius: 20px;
+ text-align: center;
+}
+
+.search-icon-style{
+  left: 30px;
+}
+  /* end Nav Bar Style */
+
+  /* start Movies card style */
+.movieCard{
+  height: 300px;
+  /* background-color: red; */
+  position: relative;
+cursor: pointer;
+  /* overflow: hidden; */
+}
+
+.movieCardImg{
+  height: 100%;
+  width: 100%;
+}
+.cardOverlay{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  background-color: var(--overlay-background);
+  opacity: 0;
+  color: white;
+  border-bottom: 5px solid var(--main-color);
+  border-top: 5px solid var(--main-color);
+  transition: 0.5s ease;
+
+}
+
+.movieCard:hover .cardOverlay {
+  opacity: 0.8;
+
+}
+  
+  /* end Movies card style */
+
+
+  /* start pagination style */
+  
+  /* .active>.page-link{
+    background-color: var(--main-color) ;
+
+  } */
+
+
+  /* end pagination style */
+
+/*start movie Details page Style */
+
+.movieCardDetails{
+  width: 100%;
+  height: 250px;
+  background-color: var(--section-background);
+  padding:8px;
+  color: var(--Details-text-color);
+  font-size: 20px;
+}
+
+.movieImgDetails{
+  width: 30%;
+  height: 100%;
+}
+
+.movieCardStory{
+  background-color: var(--section-background);
+  color: var(--Details-text-color);
+}
+
+.btn-homePage, .btn-showMovie{
+  background-color: var(--main-color);
+  color: white;
+  
+  }
+  .btn-homePage:hover, .btn-showMovie:hover{
+  background-color: var(--hover-btn-color);
+  color: white;
+  
+  }
+
+/* end movie Details page Style */
