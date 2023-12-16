@@ -3,6 +3,7 @@ import { Col, Container, Row } from "react-bootstrap";
 import { useDispatch } from "react-redux";
 
 import { filterMovie } from "../redux/api/apiRequst";
+import { Link } from "react-router-dom";
 
 const NavBar = () => {
   //هذة فقط اليوس ستايد اذا احتجت ان اسوي زرار  مايبحث الا لما اضغط عليه
@@ -19,9 +20,9 @@ const NavBar = () => {
       <Container className=" h-100 ">
         <Row className=" h-100 justify-content-between align-items-center">
           <Col xs={2} lg={1}>
-            <a href="/" className="navLogo">
+            <Link href="/" className="navLogo">
               <img src="images/Logo.png" className="logoImg" alt="logoImg" />
-            </a>
+            </Link>
           </Col>
           <Col xs={10} lg={11}>
             <div className="searcForm d-flex align-items-center position-relative">

@@ -12,9 +12,9 @@ import { MoviesStore } from "./redux/store/MoviesStoreData";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <Provider store={MoviesStore}>
     <HashRouter>
+  <Provider store={MoviesStore}>
       <App />
-    </HashRouter>
   </Provider>
+    </HashRouter>
 );
