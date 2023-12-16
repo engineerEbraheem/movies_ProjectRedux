@@ -20,7 +20,7 @@ const NavBar = () => {
       <Container className=" h-100 ">
         <Row className=" h-100 justify-content-between align-items-center">
           <Col xs={2} lg={1}>
-            <Link href="/" className="navLogo">
+            <Link to="/" className="navLogo">
               <img src="images/logo.png" className="logoImg" alt="logoImg" />
             </Link>
           </Col>

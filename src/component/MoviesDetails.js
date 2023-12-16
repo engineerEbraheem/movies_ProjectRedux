@@ -66,9 +66,9 @@ const MoviesDetails = () => {
             <Link to="/">
               <button className="btn btn-homePage mx-1">عودة للرئيسية</button>
             </Link>
-            <a href="google.com">
+            <Link to="/">
               <button className="btn btn-showMovie mx-1">مشاهدة الفيلم</button>
-            </a>
+            </Link>
           </Col>
         </Row>
       ) : (
