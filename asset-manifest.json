@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/movies_ProjectRedux/static/css/main.216b3828.css",
-    "main.js": "/movies_ProjectRedux/static/js/main.3fba14a2.js",
+    "main.js": "/movies_ProjectRedux/static/js/main.6aec9e15.js",
     "static/media/Cairo-Medium.ttf": "/movies_ProjectRedux/static/media/Cairo-Medium.6370a01bd2091982922d.ttf",
     "index.html": "/movies_ProjectRedux/index.html",
     "main.216b3828.css.map": "/movies_ProjectRedux/static/css/main.216b3828.css.map",
-    "main.3fba14a2.js.map": "/movies_ProjectRedux/static/js/main.3fba14a2.js.map"
+    "main.6aec9e15.js.map": "/movies_ProjectRedux/static/js/main.6aec9e15.js.map"
   },
   "entrypoints": [
     "static/css/main.216b3828.css",
-    "static/js/main.3fba14a2.js"
+    "static/js/main.6aec9e15.js"
   ]
 }
