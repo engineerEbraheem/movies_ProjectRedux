@@ -6,7 +6,7 @@ import axios from "axios";
 export const getAllMoviesData = createAsyncThunk(
   "moviesData/getAll",
   async () => {
-    const response = await axios.get("/moviesData.json");
+    const response = await axios.get("moviesData.json");
     const numOfMovies = response.data.length;
 
     return { allData: response.data, totalMovies: numOfMovies };
@@ -17,7 +17,7 @@ export const getAllMoviesData = createAsyncThunk(
 export const filterMovie = createAsyncThunk(
   "moviesData/search",
   async (word) => {
-    const response = await axios.get("/moviesData.json");
+    const response = await axios.get("moviesData.json");
     const allData = response.data;
     const filterSearchData = allData.filter((item) =>
       item.type.trim().includes(word)
@@ -32,7 +32,7 @@ export const filterMovie = createAsyncThunk(
 export const getMovieDetails = createAsyncThunk(
   "movieDetails/getInfo",
   async (id) => {
-    const response = await axios.get("/movieDetailsData.json");
+    const response = await axios.get("movieDetailsData.json");
     const allDetailsData = response.data;
     const filterDetailsById = allDetailsData.find((item) => item.id === id);
     return filterDetailsById;
