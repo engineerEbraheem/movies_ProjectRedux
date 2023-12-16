@@ -28,7 +28,7 @@ const MoviesDetails = () => {
             <div className="movieCardDetails d-flex align-items-center rounded-4">
               <img
                 className="movieImgDetails rounded-4"
-                src={`/${movieInfo.img}`}
+                src={movieInfo.img}
                 alt="img"
               />
               <div className="movieTextDetails m-auto text-center ">
